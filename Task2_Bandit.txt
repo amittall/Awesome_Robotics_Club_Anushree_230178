@@ -558,4 +558,3 @@ bandit4@bandit:~/inhere$ exit
 logout
 Connection to bandit.labs.overthewire.org closed.
 
-C:\Users\hello\Desktop>
