@@ -13,7 +13,7 @@ So, while the queue is not empty
 					         (3) not in the visited set ( so that we do not revisit and move forward to the goal)
   - update visited, path in queue
 - next loop next_pos becomes new current.
-
+- then we check again from the queue if the current new position is goal is yes return the path using for loop with +1 adjustment for the index
 BFS used layer-by-layer analysis to see all possibilities
 
 
